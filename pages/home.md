@@ -1,20 +1,15 @@
 ---
-layout: layouts/home.njk
-title: Home
+title: DIGGG - et alternativ til matpakken
 date: 2016-01-01T00:00:00.000Z
 permalink: /
-navtitle: Home
+navtitle: Hjem
 tags:
   - nav
 ---
-# Welcome
+![](/static/img/knas.png)
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.io), with deployment to [Netlify](https://www.netlify.com).
+DIGGG er et prosjekt der vi kartlegger mulighetene for å tilby et næringsrikt og bærekraftig måltid på skolen ved å bruke mat som av ulike grunner ikke lenger kan selges i butikken, til en pris som kan konkurrere med matpakken.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+Ved å ta i bruk intelligent programvare som predikerer matsvinn i butikker og på serveringssteder og samtidig kartlegge hva elevene mener, vil vi kunne redusere matsvinn i begge endene.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on Github.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+Vi ønsker at barna skal være med på å utforme systemet og gi dem en sjanse til å påvirke sin egen fremtid gjennom maten de spiser i skolen. Skolen vil kunne bruke skolematordningen til å aktivt undervise i matsvinn, bærekraft, klima, matkultur og kokkelering.
